@@ -1,0 +1,6 @@
+form{
+    margin: 0 auto;
+    max-width: 2rem;
+    display: grid;
+    gap: 1rem;
+}
